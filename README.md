@@ -1,9 +1,4 @@
-### Hi there 👋
+Hi, I am Muneeb Ahmad!👋
 
-<!--
-**Muneeb233/Muneeb233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Passionate Software Developer from Lahore, Pakistan.**
 
-Here are some ideas to get you started:
-
-**Hi, I am Muneeb Ahmad!👋**
--->
